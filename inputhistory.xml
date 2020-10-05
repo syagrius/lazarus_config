@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <InputHistory>
+    <Version Value="1"/>
+    <Find>
+      <History>
+        <Find Count="11">
+          <Item1 Value="acia"/>
+          <Item2 Value="TObject;"/>
+          <Item3 Value="tobject"/>
+          <Item4 Value="GetInt64Prop"/>
+          <Item5 Value="asclass"/>
+          <Item6 Value="GetPropValue"/>
+          <Item7 Value="object"/>
+          <Item8 Value="TPersistent( "/>
+          <Item9 Value="TPersistent"/>
+          <Item10 Value="putblob"/>
+          <Item11 Value="insert into"/>
+        </Find>
+      </History>
+      <Version Value="1"/>
+    </Find>
+    <FindInFiles>
+      <History>
+        <Paths Count="4">
+          <Item1 Value="/home/acia/fpcupdeluxe/"/>
+          <Item2 Value="/home/acia/fpcupdeluxe/acia/"/>
+          <Item3 Value="/home/acia/fpcupdeluxe/ccr/"/>
+          <Item4 Value="/home/acia/fpcupdeluxe/acia/securebridge/Source/"/>
+        </Paths>
+        <Masks Count="1">
+          <Item1 Value="*.pas;*.pp;*.inc"/>
+        </Masks>
+      </History>
+      <Options SearchOpen="False" SearchDirectories="True"/>
+    </FindInFiles>
+    <FileDialog Width="780" Height="622" InitialDir="/home/acia/fpcupdeluxe/acia/securebridge/Source/Lazarus1/">
+      <HistoryList Count="2">
+        <Item1 Value="/home/acia/fpcupdeluxe/acia/securebridge/Source/Lazarus1/"/>
+        <Item2 Value="/home/acia/PortableAcia/src/services/orm/aciasrv/"/>
+      </HistoryList>
+    </FileDialog>
+  </InputHistory>
+</CONFIG>

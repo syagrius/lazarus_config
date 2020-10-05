@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <UserPkgLinks Version="3" Count="5">
+    <Item1>
+      <Name Value="dclsbridge10"/>
+      <Version Major="9" Minor="3" Release="1"/>
+      <Filename Value="/home/acia/fpcupdeluxe/acia/securebridge/Source/Lazarus1/dclsbridge10.lpk"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item1>
+    <Item2>
+      <Name Value="Jcl"/>
+      <Version Major="2" Minor="7" Build="5300"/>
+      <Filename Value="/home/acia/fpcupdeluxe/ccr/jcl/jcl/packages/fpc/Jcl.lpk"/>
+      <LastUsed Value="2020/10/03 21:22:01"/>
+    </Item2>
+    <Item3>
+      <Name Value="JclVcl"/>
+      <Version Major="2" Minor="7" Build="5300"/>
+      <Filename Value="/home/acia/fpcupdeluxe/ccr/jcl/jcl/packages/fpc/JclVcl.lpk"/>
+      <LastUsed Value="2020/10/03 21:22:01"/>
+    </Item3>
+    <Item4>
+      <Name Value="python4lazarus_package"/>
+      <Version Major="1" Minor="2"/>
+      <Filename Value="/home/acia/fpcupdeluxe/ccr/python4laz/python4lazarus/python4lazarus_package.lpk"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item4>
+    <Item5>
+      <Name Value="sbridge10"/>
+      <Version Major="9" Minor="3" Release="1"/>
+      <Filename Value="/home/acia/fpcupdeluxe/acia/securebridge/Source/Lazarus1/sbridge10.lpk"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item5>
+  </UserPkgLinks>
+  <GlobalPkgLinks Version="3" Count="32">
+    <Item1>
+      <Name Value="chmhelppkg"/>
+      <Version Minor="2"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item1>
+    <Item2>
+      <Name Value="cmdlinedebuggerbase"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item2>
+    <Item3>
+      <Name Value="codetools"/>
+      <Version Major="1" Release="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item3>
+    <Item4>
+      <Name Value="cody"/>
+      <Version Major="1" Minor="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item4>
+    <Item5>
+      <Name Value="datetimectrls"/>
+      <Version Major="1" Minor="5" Release="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item5>
+    <Item6>
+      <Name Value="datetimectrlsdsgn"/>
+      <Version Major="1" Minor="5" Release="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item6>
+    <Item7>
+      <Name Value="dbflaz"/>
+      <Version Minor="1" Release="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item7>
+    <Item8>
+      <Name Value="debuggerintf"/>
+      <Version Minor="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item8>
+    <Item9>
+      <Name Value="externhelp"/>
+      <Version Major="1" Minor="3"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item9>
+    <Item10>
+      <Name Value="fcl"/>
+      <Version Major="1" Release="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item10>
+    <Item11>
+      <Name Value="fpcunitide"/>
+      <Version Minor="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item11>
+    <Item12>
+      <Name Value="ideintf"/>
+      <Version Major="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item12>
+    <Item13>
+      <Name Value="instantfpclaz"/>
+      <Version Major="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item13>
+    <Item14>
+      <Name Value="jcfidelazarus"/>
+      <Version Major="2"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item14>
+    <Item15>
+      <Name Value="lazcontroldsgn"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item15>
+    <Item16>
+      <Name Value="lazcontrols"/>
+      <Version Major="1" Release="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item16>
+    <Item17>
+      <Name Value="lazdaemon"/>
+      <Version Minor="9" Release="9"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item17>
+    <Item18>
+      <Name Value="lazdebuggergdbmi"/>
+      <Version Minor="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item18>
+    <Item19>
+      <Name Value="lazdebuggerlldb"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item19>
+    <Item20>
+      <Name Value="lazprojectgroups"/>
+      <Version Minor="7"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item20>
+    <Item21>
+      <Name Value="lazutils"/>
+      <Version Major="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item21>
+    <Item22>
+      <Name Value="lcl"/>
+      <Version Major="2" Release="10"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item22>
+    <Item23>
+      <Name Value="lclbase"/>
+      <Version Major="2" Release="10"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item23>
+    <Item24>
+      <Name Value="leakview"/>
+      <Version Major="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item24>
+    <Item25>
+      <Name Value="lhelpcontrolpkg"/>
+      <Version Minor="2"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item25>
+    <Item26>
+      <Name Value="memdslaz"/>
+      <Version Major="1" Minor="2" Release="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item26>
+    <Item27>
+      <Name Value="projtemplates"/>
+      <Version Major="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item27>
+    <Item28>
+      <Name Value="sdflaz"/>
+      <Version Minor="1" Release="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item28>
+    <Item29>
+      <Name Value="sqldblaz"/>
+      <Version Major="1" Release="2"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item29>
+    <Item30>
+      <Name Value="synedit"/>
+      <Version Major="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item30>
+    <Item31>
+      <Name Value="syneditdsgn"/>
+      <Version Major="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item31>
+    <Item32>
+      <Name Value="tachartlazaruspkg"/>
+      <Version Major="1"/>
+      <LastUsed Value="2020/10/04 19:45:23"/>
+    </Item32>
+  </GlobalPkgLinks>
+</CONFIG>

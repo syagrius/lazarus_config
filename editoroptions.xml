@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <EditorOptions Version="12">
+    <Display DoNotWarnForFont="DejaVu Sans Mono"/>
+    <KeyMapping>
+      <default Count="1">
+        <Version Value="6"/>
+        <Item1 Name="Set marker 9">
+          <KeyA Default="False" Key1="228" Shift1="4"/>
+        </Item1>
+      </default>
+    </KeyMapping>
+    <CodeTools CodeTemplateFileName="/home/acia/fpcupdeluxe/config_lazarus/lazarus.dci" CompletionLongLineHintTypeCompletionLongLineHintType="sclpExtendRightOnly"/>
+    <Mouse>
+      <Default Version="1"/>
+    </Mouse>
+    <Color Version="12">
+      <LangObjectPascal Version="12">
+        <ColorScheme Value="Twilight"/>
+        <SchemeTwilight>
+          <Number Foreground="clMenuHighlight"/>
+        </SchemeTwilight>
+      </LangObjectPascal>
+    </Color>
+  </EditorOptions>
+</CONFIG>

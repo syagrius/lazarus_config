@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <compiler value="/home/acia/fpcupdeluxe/fpc/bin/x86_64-linux/pas2js"/>
+  <webserver value="/home/acia/fpcupdeluxe/fpc/bin/x86_64-linux/compileserver"/>
+</CONFIG>
